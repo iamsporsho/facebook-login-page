@@ -1,0 +1,138 @@
+body{
+
+    background-color: #F0F2F5;
+}
+
+.wrapper{
+
+    margin-left: 500px;
+    margin-top: 200px;
+}
+
+.header-img{
+
+    width: 320px;
+    height: 106px;
+}
+
+.slogan{
+
+    font-size: 25px;
+    margin-top: -20px;
+    margin-left: 27px;
+}
+
+.form-box{
+
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+    margin-left: 1020px;
+    margin-top: -220px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(209, 207, 207);
+}
+
+input{
+
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: -15;
+    border-radius: 5px;
+    width: 335px;
+    font-size: 15px;
+    border: 1px solid grey;
+    height: 30px;
+}
+
+.login{
+
+    margin-left: 22px;
+    width: 355px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    background-color: #1877F2;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none; 
+}
+
+.forget{
+
+    text-decoration: none;
+    color:#1877F2;
+    cursor: pointer;
+    margin-left: 130px;
+    margin-bottom: 130px;
+    cursor: pointer;
+}
+
+.forget:hover{
+
+    text-decoration: underline;
+}
+
+.line{
+
+    height: 1px;
+    width: 350px;
+    background-color: rgb(209, 207, 207);
+    margin-left: 22px;
+}
+
+.new-account{
+
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 200px;
+    background-color: #36A420;
+    color: #fff;
+    height: 50px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.new-account:hover{
+
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 200px;
+    background-color: #30941d;
+    color: #fff;
+    height: 50px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+footer a{
+
+    margin-left: 1060px;
+    margin-top: 20px;
+    text-decoration: none; 
+}
+
+.underline{
+
+    color: #000;
+}
+
+.underline:hover{
+
+    text-decoration: underline;
+}
+
+.page{
+
+    color: #000;
+    margin-top: 20px;
+}
+
